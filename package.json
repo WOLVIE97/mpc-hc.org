@@ -19,7 +19,7 @@
   "dependencies": {
     "autoprefixer": "^7.1.2",
     "css-mqpacker": "^6.0.1",
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.4",
     "grunt-accessibility": "^5.0.0",
     "grunt-bootlint": "^0.10.0",
     "grunt-contrib-clean": "^1.0.0",
