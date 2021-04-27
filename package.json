@@ -17,7 +17,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "autoprefixer": "^7.1.2",
+    "autoprefixer": "^10.0.0",
     "css-mqpacker": "^6.0.1",
     "grunt": "^1.0.1",
     "grunt-accessibility": "^5.0.0",
@@ -39,7 +39,7 @@
     "grunt-uncss": "^0.7.0",
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.4.0",
-    "postcss-combine-duplicated-selectors": "^3.0.0",
+    "postcss-combine-duplicated-selectors": "^9.2.0",
     "sri-toolbox": "^0.2.0",
     "time-grunt": "^1.3.0"
   },
