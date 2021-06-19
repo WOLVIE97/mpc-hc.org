@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "autoprefixer": "^7.1.2",
-    "css-mqpacker": "^6.0.1",
+    "css-mqpacker": "^7.0.0",
     "grunt": "^1.0.1",
     "grunt-accessibility": "^5.0.0",
     "grunt-bootlint": "^0.10.0",
@@ -36,7 +36,7 @@
     "grunt-include-replace": "^5.0.0",
     "grunt-jekyll": "^0.4.2",
     "grunt-postcss": "^0.9.0",
-    "grunt-uncss": "^0.7.0",
+    "grunt-uncss": "^0.9.0",
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^3.4.0",
     "postcss-combine-duplicated-selectors": "^3.0.0",
